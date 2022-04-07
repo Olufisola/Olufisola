@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olufisola
 - 👀 I’m interested in Data Science, GIS, ICT & Application Development
-- 🌱 I’m currently learning Data Science and applicable tools.
+- 🌱 I’m currently learning Data Science and its applicable tools.
 - 💞️ I’m looking to collaborate on development of applications that solve real-world problems.
 - 📫 How to reach me @ agisanalyst@yahoo.com 
 
